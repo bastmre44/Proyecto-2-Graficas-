@@ -100,9 +100,12 @@ src/
 
 
 ### Video del diorama
+[![Ver el video del diorama](https://img.youtube.com/vi/B6Rawiwi2lQ/hqdefault.jpg)](https://youtu.be/B6Rawiwi2lQ?si=eBUCuSEm9F_EUmv4)
+
+[Ver video en YouTube](https://youtu.be/B6Rawiwi2lQ?si=eBUCuSEm9F_EUmv4)
 
 
-[![Video pendiente]([\[https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg\](https://youtu.be/B6Rawiwi2lQ?si=935UOPbh0raAN8et)](https://youtu.be/B6Rawiwi2lQ?si=935UOPbh0raAN8et))](https://www.youtube.com/watch?v=ID_DEL_VIDEO)
+
 
 ## Capturas
 
