@@ -111,10 +111,13 @@ src/
 
 
 
-1. `normal.png`: vista frontal de la casa normal.
-2. `fire.png`: la misma vista con el incendio activado.
-3. `reflection.png`: ángulo donde se aprecie el metal reflectante.
-4. `refraction.png`: acercamiento a una ventana de vidrio.
+| Antes del incendio | En llamas |
+|---|---|
+| ![Vista de la casa antes del incendio](screenshots/normal.png) | ![Vista de la casa en llamas](screenshots/fire.png) |
+
+| Reflexión en el metal | Refracción en el vidrio |
+|---|---|
+| ![Acercamiento que muestra la reflexión en el metal](screenshots/reflection.png) | ![Acercamiento que muestra la refracción en una ventana](screenshots/refraction.png) |
 
 
 
